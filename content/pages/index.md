@@ -38,7 +38,7 @@ sections:
           - pt-12
           - pb-12
         alignItems: flex-start
-        justifyContent: flex-start
+        justifyContent: flex-end
         flexDirection: row
         borderRadius: none
         borderWidth: 1
