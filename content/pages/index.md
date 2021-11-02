@@ -39,7 +39,7 @@ sections:
           - pb-12
         alignItems: flex-end
         justifyContent: center
-        flexDirection: row
+        flexDirection: col
         borderRadius: none
         borderWidth: 1
         borderStyle: double
